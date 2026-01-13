@@ -1,4 +1,5 @@
 # Cookie Cats: A/B Testing Level Gate Placement
+Link on Kaggle: https://www.kaggle.com/code/mitty527/mobile-game-a-b-testing
 
 ## 📌 Project Overview
 This project analyzes an A/B test for the popular mobile puzzle game, **Cookie Cats**. The goal was to determine if moving the first "gate" (a point where players are forced to wait or make a purchase) from **Level 30 to Level 40** affects player retention and game engagement.
